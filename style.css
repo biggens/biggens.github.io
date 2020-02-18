@@ -722,7 +722,7 @@ main {
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
     .main-header__list {
         display: flex;
         flex-flow: column wrap;
